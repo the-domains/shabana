@@ -1,0 +1,28 @@
+name: Shabana
+favicon: null
+layout_spectrum: 0.3597030269447714
+typography_spectrum: 0.4437592583708465
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.021512834588065743
+  lightness: 0.7604830553755164
+  saturation: 0.5105755205731839
+  rhythmicContrast: 0.8645830627065152
+purpose: []
